@@ -1,0 +1,8 @@
+This is a test document for the AI Employee to process.
+
+Please summarize this document and extract any action items.
+
+Key points:
+- This is a test file
+- Testing the Bronze tier implementation
+- File drop workflow
